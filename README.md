@@ -7,3 +7,9 @@ ___
 - [x] Модули и Webpack
   - [x] [Webpack](https://github.com/blackseliger/ajshw-webpack)
   - [x] [Modules](https://github.com/blackseliger/ajshw-modules)
+- [x] -  Платформы: браузер vs Node.js
+  - [x] [Библиотека для браузера и Node.js](https://github.com/blackseliger/ajs)
+
+- [x] - Unit-тестирование
+  - [x] [Чистые функции](https://github.com/blackseliger/ajshw-cleanFunctions)
+  - [x] [Matchers]() 
