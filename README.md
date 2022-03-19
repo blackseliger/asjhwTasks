@@ -13,3 +13,6 @@ ___
 - [x] - Unit-тестирование
   - [x] [Чистые функции](https://github.com/blackseliger/ajshw-cleanFunctions)
   - [x] [Matchers](https://github.com/blackseliger/ajshw-matchers) 
+- [x] - Прототипы, конструкторы, классы и наследование
+  - [x] [Классы, наследование](https://github.com/blackseliger/ajshw-classes)
+  - [x] [Методы](https://github.com/blackseliger/ajshw-methods)  
